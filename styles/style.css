@@ -147,4 +147,9 @@ footer {
     #block2 {
         justify-content: center;
     }
+
+
+    #search-bar {
+        width: 75vw;
+    }
 }
